@@ -13,7 +13,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from qssi device
-$(call inherit-product, device/oppo/OP4AB5/device.mk)
+$(call inherit-product, device/oppo/PCLM50/device.mk)
 
 PRODUCT_DEVICE := PCLM50
 PRODUCT_NAME := twrp_PCLM50
