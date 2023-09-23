@@ -15,8 +15,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Inherit from qssi device
 $(call inherit-product, device/oppo/OP4AB5/device.mk)
 
-PRODUCT_DEVICE := OP4AB5
-PRODUCT_NAME := twrp_OP4AB5
+PRODUCT_DEVICE := PCLM50
+PRODUCT_NAME := twrp_PCLM50
 PRODUCT_BRAND := OPPO
 PRODUCT_MODEL := PCLM50
 PRODUCT_MANUFACTURER := OPPO
