@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo twrp_OP4AB5-user
-add_lunch_combo twrp_OP4AB5-userdebug
-add_lunch_combo twrp_OP4AB5-eng
+add_lunch_combo twrp_PCLM50-user
+add_lunch_combo twrp_PCLM50-userdebug
+add_lunch_combo twrp_PCLM50-eng
