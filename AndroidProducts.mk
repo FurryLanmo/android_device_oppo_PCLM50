@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_PCLM50.mk
+    $(LOCAL_DIR)/omni_PCLM50.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_OP4AB5-user \
-    twrp_OP4AB5-userdebug \
-    twrp_OP4AB5-eng
+    omni_PCLM50-user \
+    omni_PCLM50-userdebug \
+    omni_PCLM50-eng
