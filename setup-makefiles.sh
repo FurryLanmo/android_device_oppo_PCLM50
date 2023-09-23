@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=OP4AB5
+DEVICE=PCLM50
 VENDOR=oppo
 
 # Load extract_utils and do some sanity checks
